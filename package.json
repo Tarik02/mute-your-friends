@@ -59,6 +59,7 @@
 		"io-ts": "^2.2.11",
 		"io-ts-fuzzy": "^0.1.1",
 		"lodash": "^4.17.20",
+		"reflect-metadata": "^0.1.13",
 		"tslib": "^2.0.3"
 	}
 }
